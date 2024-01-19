@@ -1,0 +1,2 @@
+This is another write command
+This is a new line in write.txt
